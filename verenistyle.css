@@ -1,0 +1,60 @@
+		* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+ background-image:url(https://scontent-sea1-1.cdninstagram.com/vp/cb44caf204daf77cda75a59f12c89b57/5C54EC23/t51.2885-15/e35/20759796_132864260656511_7378786211466313728_n.jpg)
+}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+            .article {
+				height: 10em;
+				margin-bottom: 1em;
+                      }
+.column1{
+  background-color:white;
+   opacity: .4;
+}
+.column2{
+  background-color:white;
+   opacity: .4;
+}
+.column3{
+  background-color:white;
+   opacity: .4;
+}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+#footer{
+  padding: 0.5em;
+   opacity: .6;
+  background-color:grey;
+}
+			#nav {
+				background-color: brown;
+               opacity: .4;
+				padding: 0.5em;}
+			#feature{
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: aqua;
+              opacity: 1;
+              background-image:url(https://scontent-sea1-1.cdninstagram.com/vp/a84a149670e65daf8c2af2a8cee9e814/5C4B8479/t51.2885-15/e35/38458063_417020448820925_7703799877246910464_n.jpg);
+              }
+h1 { 
+   font-family: 'NemoyMedium'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+              
