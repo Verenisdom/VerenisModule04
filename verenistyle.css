@@ -8,7 +8,7 @@ font-weight: normal;
 body {
 width : 90%;
 margin : 0 auto;
-background-image : url(https://scontent-sea1-1.cdninstagram.com/vp/cb44caf204daf77cda75a59f12c89b57/5C54EC23/t51.2885-15/e35/20759796_132864260656511_7378786211466313728_n.jpg);
+background-image : url("https://scontent-sea1-1.cdninstagram.com/vp/cb44caf204daf77cda75a59f12c89b57/5C54EC23/t51.2885-15/e35/20759796_132864260656511_7378786211466313728_n.jpg");
 height: 100%;
 background-position: center;
 background-repeat: no-repeat;
@@ -64,9 +64,8 @@ padding : 0.5em;
 #feature {
 height : 10em;
 margin-bottom : 1em;
-background-color : aqua;
 opacity : 1;
-background-image : url(https://www.switchbacktravel.com/sites/default/files/image_fields/field_imgs_inline/Enchantments%20Washington.jpg);
+background-image : url("https://www.switchbacktravel.com/sites/default/files/image_fields/field_imgs_inline/Enchantments%20Washington.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
