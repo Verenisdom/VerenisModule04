@@ -25,7 +25,9 @@ width : 31.3%;
 float : left;
 margin : 1%;
 }
-.article {
+
+
+#features.article {
 height : 10em;
 margin-bottom : 1em;
 }
